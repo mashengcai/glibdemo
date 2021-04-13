@@ -1,0 +1,2 @@
+$gdbus-codegen --generate-c-code=Hello  --c-namespace hello --interface-prefix com.yft.hello. hello.xml
+
